@@ -1,21 +1,21 @@
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/killerbobjr/sdkjs.git
 [submodule "core"]
 	path = core
-	url = https://github.com/ONLYOFFICE/core.git
+	url = https://github.com/killerbobjr/core.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/killerbobjr/server.git
 [submodule "dictionaries"]
 	path = dictionaries
-	url = https://github.com/ONLYOFFICE/dictionaries.git
+	url = https://github.com/killerbobjr/dictionaries.git
 [submodule "sdkjs-plugins"]
 	path = sdkjs-plugins
-	url = https://github.com/ONLYOFFICE/sdkjs-plugins.git
+	url = https://github.com/killerbobjr/sdkjs-plugins.git
 [submodule "core-fonts"]
 	path = core-fonts
-	url = https://github.com/ONLYOFFICE/core-fonts.git
+	url = https://github.com/killerbobjr/core-fonts.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps.git
+	url = https://github.com/killerbobjr/web-apps.git
